@@ -200,4 +200,4 @@ These prevent invalid data from being stored in the database.
 
 DevOps Engineer
 
-Completed as part of the TechWorld with Nana IT Fuundamentals Course
+Completed as part of the TechWorld with Nana IT Fundamentals Course

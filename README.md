@@ -1,5 +1,5 @@
 # Teamable Demo Project
-This project is a full-stack web application built as part of TechWorld with Nana The IT Fundamentals Course.
+This project is a full-stack web application.
 It demonstrates how a complete software project works — from frontend development to backend, database connection, testing, packaging, and deployment.
 
 ### 🚀 Project Overview
